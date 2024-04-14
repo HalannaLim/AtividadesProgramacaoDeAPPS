@@ -1,0 +1,1 @@
+Esse repositório contém todas as atividades realizadas na unidade curricular de Desenvolvimento de App móveis, Onde está dividida em  3 partes( Atividades de Walescka, Atividades de Leonardo e Atividades relacionadas a Programação Orientada a objetos (POO)
