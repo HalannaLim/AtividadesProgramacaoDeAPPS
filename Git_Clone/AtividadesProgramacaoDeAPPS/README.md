@@ -1,0 +1,1 @@
+Esse repositório contém todas as atividades realizadas na unidade curricular de Desenvolvimento de App móveis, Onde está dividida em  duas partes( Atividades de linguagem de programação (Em python) e Atividades de POO(Programação orientada a objetos))
